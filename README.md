@@ -1,16 +1,10 @@
 # inspirationui_app
 
 Inspiration app UI design
+Built this to practice Flutter UI design
 
-## Getting Started
+<h4>Screenshots</h4>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1440" alt="Screenshot 2021-12-24 at 7 45 03 PM" src="https://user-images.githubusercontent.com/18511990/147369350-3f973d9f-83da-4d5f-8dcc-ec818b1b4832.png">
+<br>
+<img src="https://user-images.githubusercontent.com/18511990/147369359-d9c7576a-8f40-4bd4-8049-10d73403bf6e.png">
